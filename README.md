@@ -6,4 +6,17 @@ which is presented at AIM 2022 conference.
 The code inputs two images of an object with two different angles and a bounding box representing the location of the object on each image.
 
 ## Example:
-![alt text](images/elevator.png)
+![alt text](images/elevator_matched.jpg)
+
+## Citation
+If you happen to use the code for your research, please cite the following paper
+
+```
+@article{leisiazar2023mcts,
+  title={An MCTS-DRL Based Obstacle and Occlusion Avoidance Methodology in Robotic Follow-Ahead Applications},
+  author={Leisiazar, Sahar and Park, Edward J and Lim, Angelica and Chen, Mo},
+  journal={arXiv preprint arXiv:2309.16884},
+  year={2023}
+}
+
+```
